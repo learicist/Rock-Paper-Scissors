@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-What you think it is
+Basic Javascript for a demo of this kind of game
